@@ -7,7 +7,6 @@ inquirer
     {
       message: "Type in your URL: ",
       name: "URL",
-      
     },
   ])
   .then((answers) => {
